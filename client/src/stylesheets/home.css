@@ -1,0 +1,205 @@
+.hbgphoto {
+    height: 385px;
+    position: absolute;
+    margin-left: -65px;
+    margin-top: -35px;
+    z-index: -1;
+    width: 1328px;
+}
+.hcontainer{
+    margin-bottom: 25px;
+}
+.hbgh2{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.hblue{
+    background-color: #008db1;
+    height: 35px;
+    width: 175px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 150px;
+    margin-left: 150px;;
+}
+.hblue:hover{
+    cursor: pointer;
+    background-color: #004e63;
+}
+.hyellow{
+    background-color: #c3bb38;
+    height: 35px;
+    width: 175px;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 140px;
+}
+.hyellow:hover{
+    cursor: pointer;
+    background-color: #8c8525;
+}
+.h1green{
+    background-color: #629c44;
+    height: 35px;
+    width: 175px;
+    border: none;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 140px;
+    border-right: 2px solid white;
+}
+.h1green:hover{
+    cursor: pointer;
+    background-color: #4c7a34;
+}
+.h2green{
+    background-color: #629c44;
+    height: 35px;
+    width: 175px;
+    border: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 7px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: -10px;
+    border-left: 2px solid white;
+}
+.h2green:hover{
+    cursor: pointer;
+    background-color: #4c7a34;
+}
+.hcard1{
+    display: block;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 275px;
+    width: 250px;
+    text-align: center;
+    margin-left: 15px;
+    background-color: white;
+}
+.hcel-image{
+    width: 175px;
+    border: none;
+    border-radius: 7px;
+    margin-top: 18px;
+}
+.hcard h4{
+    margin-top: 3px;
+    font-size: 23px;
+}
+.hcard p{
+    font-size: 17px;
+    margin-top: -20px;
+}
+.hmiddle{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    width: 250px;
+    text-align: center;
+    margin-left: 515px;
+    position: absolute;
+    margin-top: -276px;
+    height: 275px;
+}
+.hmiddle h2{
+    margin-top: 4px;
+}
+.hleft{
+    display: flex;
+    width: 503px;
+    padding-left: 0px;
+    margin-top: 25px;
+}
+.hcard2{
+    display: block;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 275px;
+    width: 225px;
+    text-align: center;
+    margin-left: 15px;
+    background-color: white;
+}
+.hcard2 h4{
+    margin-top: 10px;
+    font-size: 23px;
+}
+.hcard2 p{
+    font-size: 17px;
+    margin-top: -20px;
+}
+.hright{
+    display: flex;
+    width: 495px;
+    padding-left: 78px;
+    margin-top: -275px;
+    margin-left: 690px;
+}
+.hc-info{
+    border: 1px solid black;
+    height: 315px;
+    width: 1000px;
+}
+.hcolor{
+    background-color: #e4f7ff;
+    z-index: -1;
+    margin-top: 90px;
+    height: 315px;
+    width: 1263px;
+    padding-top: 15px;
+}
+.h5files{
+    display: flex;
+}
+.hcard{
+    display: block;
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 300px;
+    width: 225px;
+    text-align: center;
+    margin-left: 20px;
+} 
+.hcel-image{
+    width: 175px;
+    border: none;
+    border-radius: 7px;
+    margin-top: 18px;
+}
+.hcard h4{
+    margin-top: 10px;
+    font-size: 23px;
+}
+.hcard p{
+    font-size: 17px;
+    margin-top: -20px;
+}
+.hclink{
+    text-decoration: none;
+    color: black;
+}
+.hbluebox h2{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+}
+.hbluebox{
+    background-color: #e4f7ff;
+    padding-top: 10px;
+}

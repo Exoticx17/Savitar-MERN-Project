@@ -1,0 +1,325 @@
+.topadmin{
+    height: 365px;
+    position: absolute;
+    margin-left: -65px;
+    z-index: -1;
+    width: 1295px;
+}
+.topphoto h2{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 550px;
+    position: absolute;
+    margin-top: 5px;
+}
+.bbutton{
+    font-size: 22px;
+    background-color: #008db1;
+    border: .5px solid white;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    height: 43px;
+    width: 185px;
+    margin-left: 45px;
+    margin-top: 150px;
+}
+.ybutton{
+    font-size: 22px;
+    background-color: #c3bb38;
+    border: .5px solid white;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    height: 43px;
+    width: 185px;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -185px;
+}
+.ybutton:hover{
+    cursor: pointer;
+    background-color: #f4eb49;
+}
+.bbutton:hover{
+    cursor: pointer;
+    background-color: #00a4d3;
+}
+.leftf{
+    border: 1px solid black;
+    margin-top: 216px;
+    width: 400px;
+    height: 420px;
+    margin-left: 0px;
+    background-color: #c9f1fd;
+}
+.leftf h2{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.fid{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.fid::placeholder{
+    color: white;
+}
+.ftype{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 105px;
+    margin-top: 25px;
+}
+.ftype:hover{
+    cursor: pointer;
+}
+.ftitle{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 25px;
+    margin-top: 65px;
+}
+.ftitle::placeholder{
+    color: white;
+}
+.ffile {
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: transparent;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 105px;
+    margin-top: 65px;
+    line-height: 25px;
+}
+.ffile::-webkit-file-upload-button {
+    background-color: #008db1;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.ffile::-webkit-file-upload-button:hover{
+    cursor: pointer;
+}
+.fdescription{
+    height: 50px;
+    width: 175px;
+    background-color: #008db1;
+    color: white;
+    font-size: 15px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 100px;
+    margin-top: 45px;
+}
+.fdescription::placeholder{
+    color: white;
+}
+.fsubmit{
+    height: 25px;
+    width: 150px;
+    margin-left: 115px;
+    margin-top: 30px;
+    background-color: #f06e9c;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.fsubmit:hover{
+    cursor: pointer;
+    background-color: #f5377a;
+}
+.topmiddle{
+    margin-top: -420px;
+    width: 400px;
+    height: 210px;
+    margin-left: 402px;
+    background-color: #c9f1fd;
+    padding-top: 1px;
+}
+.topmiddle h2{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.uid{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.uid::placeholder{
+    color: white;
+}
+.uadmin{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 105px;
+    margin-top: 25px;
+}
+.uadmin:hover{
+    cursor: pointer;
+}
+.usubmit{
+    height: 25px;
+    width: 150px;
+    margin-left: 115px;
+    margin-top: 30px;
+    background-color: #f06e9c;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.usubmit:hover{
+    cursor: pointer;
+    background-color: #f5377a;
+}
+.bottomm{
+    margin-top: 0px;
+    width: 400px;
+    height: 208px;
+    margin-left: 402px;
+    background-color: #008db1;
+    padding-top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.trophy{
+     height: 175px;
+}
+.rightc{
+    border: 1px solid black;
+    margin-top: -421px;
+    width: 400px;
+    height: 420px;
+    margin-left: 801px;
+    background-color: #c9f1fd;
+}
+.rightc h2{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cid{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.cid::placeholder{
+    color: white;
+}
+.ctype{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 105px;
+    margin-top: 25px;
+}
+.ctype:hover{
+    cursor: pointer;
+}
+.ctitle{
+    height: 25px;
+    width: 115px;
+    background-color: #008db1;
+    color: white;
+    font-size: 18px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 135px;
+    margin-top: 25px;
+}
+.ctitle::placeholder{
+    color: white;
+}
+.cdescription{
+    height: 50px;
+    width: 175px;
+    background-color: #008db1;
+    color: white;
+    font-size: 15px;
+    border: 1px solid #024a5c;
+    border-radius: 5px;
+    padding-left: 7px;
+    margin-left: 100px;
+    margin-top: 35px;
+}
+.cdescription::placeholder{
+    color: white;
+}
+.csubmit{
+    height: 25px;
+    width: 150px;
+    margin-left: 115px;
+    margin-top: 30px;
+    background-color: #f06e9c;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.csubmit:hover{
+    cursor: pointer;
+    background-color: #f5377a;
+}
+.forms{
+    margin-top: 173px;
+    margin-left: -235px;
+}

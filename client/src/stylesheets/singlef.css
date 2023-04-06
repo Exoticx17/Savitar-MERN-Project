@@ -1,0 +1,53 @@
+.scard-pic{
+    height: 385px;
+    position: absolute;
+    margin-left: -65px;
+    margin-top: -35px;
+    z-index: -1;
+    width: 1328px;
+}
+.sinfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 385px; 
+    margin-bottom: 200px;
+    position: relative; 
+}
+.sh2{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -85px;
+}
+.sp{
+    font-size: 22px;
+    margin-top: 35px;
+}
+.sreturn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: #c9f1fd;
+    padding: 20px;
+    margin-top: -217px;
+    width: 1100px;
+    margin-left: 60px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.simage{
+    height: 300px;
+}
+.svideo{
+    height: 450px;
+}
+.saudio{
+    height: 100px
+}
+.sleft{
+    margin-left: -75px;
+}
+.sflex{
+    display: flex;
+}

@@ -1,0 +1,92 @@
+.icon{
+    width: 65px;
+    margin-top: 3px
+}
+.landing-nav{
+    background-color: #e4f7ff;
+    height: 75px;
+    border-bottom: 2px solid black;
+    display: flex;
+    align-items: center;
+}
+.hide{
+    display: none;
+}
+.savitar{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+}
+.xfiles{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 450px;
+}
+.xvoting{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.xvinfo{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.xlogin{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.xsignup{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.filess{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.voting{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.vinfo{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 65px;
+}
+.xlogout{
+    font-size: 22px;
+    color: #c1d045;
+    text-decoration: none;
+    margin-left: 65px;
+    background-color: #008db1;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.xadmin{
+    font-size: 22px;
+    color: black;
+    text-decoration: none;
+    margin-left: 375px;
+}
+.xlogout:hover{
+    cursor: pointer;
+    color: #008db1;
+    background-color: #c1d045;
+}

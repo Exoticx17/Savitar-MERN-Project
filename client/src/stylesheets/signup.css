@@ -1,0 +1,74 @@
+.sform{
+    width: 1050px;
+    text-align: center;
+    margin-left: 105px;
+    height: 490px;
+    background-color: #f1f1f1;
+    padding-top: 35px;
+}
+.svertical-lines{
+    display: flex;
+    justify-content: center;
+    border-left: 2px solid gold;
+    border-right: 2px solid gold;
+    height: 350px;
+    width: 800px;
+    margin-left: 115px;;
+}
+.slogger{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.semail{
+    width: 200px;
+    margin-top: 35px;
+    background-color: #00a4d3;
+    border: 1px solid black;
+}
+.semail::placeholder{
+    color: black;
+    font-size: 17px;
+    padding-left: 5px;
+}
+.spassword{
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 35px;
+    margin-left: 100px;
+    background-color: #00a4d3;
+    border: 1px solid black;
+}
+.spassword::placeholder{
+    color: black;
+    font-size: 17px;
+    padding-left: 5px;
+}
+.slefl{
+    position: absolute;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 175px;
+}
+.spfl{
+    position: absolute;
+    margin-top: 45px;
+    font-size: 20px;
+}
+.ssubmit{
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #E863AF;
+    margin-top: 40px;
+    width: 250px;
+    height: 43px;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-top: 215px;
+    position: absolute;
+}
+.ssubmit:hover{
+    cursor: pointer;
+    background-color: #63afe8;
+    transform: scale(1.2);
+}
